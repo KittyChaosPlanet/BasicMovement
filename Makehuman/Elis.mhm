@@ -1,0 +1,28 @@
+# Written by MakeHuman 1.2.0 beta2
+version v1.2.0
+name Elis
+camera 11.0 15.0 0.21993340516912205 0.2945064858521804 -0.12314653556019728 1.0625
+modifier breast/BreastSize 0.770000
+modifier breast/BreastFirmness 0.698000
+modifier breast/breast-dist-decr|incr -0.064000
+modifier breast/nipple-size-decr|incr 0.190000
+modifier macrodetails/Gender 0.206000
+modifier macrodetails/Age 0.500000
+modifier macrodetails/African 0.087591
+modifier macrodetails/Asian 0.118409
+modifier macrodetails/Caucasian 0.794000
+modifier macrodetails-universal/Muscle 0.960000
+modifier macrodetails-universal/Weight 0.500000
+modifier macrodetails-height/Height 0.500000
+modifier macrodetails-proportions/BodyProportions 0.754000
+hair short02 c104cd4a-1edc-43f9-8b94-f63345a44638
+skeleton game_engine.mhskel
+eyes HighPolyEyes 2c12f43b-1303-432c-b7ce-d78346baf2e6
+clothes RunningShoes e57655db-9408-43ed-a795-971c115219fe
+clothes ShortJeans 3c7e06c8-2acc-4b39-ae68-12de6007e5c5
+clothes mens_teeshirt1j 8b516c4d-20ab-45a5-b3c7-1d71e5e429e3
+clothesHideFaces True
+skinMaterial skins/young_caucasian_female/young_caucasian_female.mhmat
+material short02 c104cd4a-1edc-43f9-8b94-f63345a44638 short02.mhmat
+material HighPolyEyes 2c12f43b-1303-432c-b7ce-d78346baf2e6 eyes/materials/deepblue.mhmat
+subdivide False
